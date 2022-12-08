@@ -1,0 +1,7 @@
+C:\Users\Pavan Vidam\source\repos\SDAsgnmt1\SDAsgnmt1\bin\Debug\SDAsgnmt1.exe.config
+C:\Users\Pavan Vidam\source\repos\SDAsgnmt1\SDAsgnmt1\bin\Debug\SDAsgnmt1.exe
+C:\Users\Pavan Vidam\source\repos\SDAsgnmt1\SDAsgnmt1\bin\Debug\SDAsgnmt1.pdb
+C:\Users\Pavan Vidam\source\repos\SDAsgnmt1\SDAsgnmt1\obj\Debug\SDAsgnmt1.csproj.AssemblyReference.cache
+C:\Users\Pavan Vidam\source\repos\SDAsgnmt1\SDAsgnmt1\obj\Debug\SDAsgnmt1.csproj.CoreCompileInputs.cache
+C:\Users\Pavan Vidam\source\repos\SDAsgnmt1\SDAsgnmt1\obj\Debug\SDAsgnmt1.exe
+C:\Users\Pavan Vidam\source\repos\SDAsgnmt1\SDAsgnmt1\obj\Debug\SDAsgnmt1.pdb
